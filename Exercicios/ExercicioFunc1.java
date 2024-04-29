@@ -10,7 +10,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class App {
+public class ExercicioFunc1 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
